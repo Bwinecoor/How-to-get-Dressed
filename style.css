@@ -1,0 +1,22 @@
+div.row div {
+    background-color:black;
+    border:2.5px white;
+    text-align: center;
+    padding:20px;
+    color: white;
+    opacity: 55%;
+    border-style: round;
+}
+.middle {
+    text-align: center;
+}
+body {
+    background-image:url("https://wallpaperaccess.com/full/1272027.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center {
+  margin: auto;
+  width: 26%;
+  padding: 10px;
+}
